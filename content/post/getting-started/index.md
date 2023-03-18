@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Пост по прошедшей неделе
+subtitle: Я написала контрольну работу по линейной алгебре и выполнила лабораторную работу №6
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Я написала контрольну работу по линейной алгебре и выполнила лабораторную работу №6
 
 # Link this post with a project
 projects: []
