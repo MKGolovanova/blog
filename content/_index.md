@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Pascal
+          description: 65%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Математический анализ
+          description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Линейная алгебра и геометрия
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,27 +40,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Репетитор по мтематике
+          company: Онлайн-платформа по образованию
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Россия
+          date_start: '2023-02-11'
+          date_end: ''
+          description: Обучаю решению задач по ОГЭ и других задач школьного уровня.
     design:
       columns: '2'
   - block: accomplishments
@@ -76,30 +63,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://github.com/
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-09-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Github
+          organization_url: https://github.com/
+          title: Изучение работы с операционной системой Linux, создание собственного сайта. 
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+       
     design:
       columns: '2'
   - block: collection
