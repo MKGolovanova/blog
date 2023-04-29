@@ -1,6 +1,6 @@
 ---
 title: Оформление отчёта.
-date: 2023-03-18
+date: 2023-04-29
 math: true
 image:
   placement: 2
