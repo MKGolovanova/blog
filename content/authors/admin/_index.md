@@ -19,7 +19,7 @@ role: Студент РУДН
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Российский университет дружбы народов
-    url: https://www.stanford.edu/
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: В данный момент учусь на первом курсе на направлении Математика и механика
@@ -72,3 +72,13 @@ highlight_name: true
 ---
 
 Окончила школу с отличием. В данный момент учусь на первом курсе на направлении Математика и механика в РУДН
+
+Ссылки на  мои ресурсы:
+- eLibrary : https://elibrary.ru/defaultx.asp?
+- Google Scholar : https://scholar.google.com/citations?view_op=new_profile&hl=ru
+- ORCID : https://orcid.org/my-orcid?orcid=0009-0000-7596-0442
+- Mendeley : https://www.mendeley.com/search/
+- ResearchGate : https://www.researchgate.net/
+- Academia.edu : https://independent.academia.edu/MariaGolovanova1
+- arXiv : https://arxiv.org/user/
+- github : https://github.com/MKGolovanova
