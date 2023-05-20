@@ -1,6 +1,6 @@
 ---
-title: Пост по прошедшей неделе
-subtitle: Пост по прошедшей неделе
+title: Пост по прошедшей неделе / Last week's post 
+subtitle: Пост по прошедшей неделе / Last week's post
 # Summary for listings and search engines
 summary: 
 
@@ -8,10 +8,10 @@ summary:
 projects: []
 
 # Date published
-date: '2023-05-13T00:00:00Z'
+date: '2023-05-20T00:00:00Z'
 
 # Date updated
-lastmod: '2023-05-13T00:00:00Z'
+lastmod: '2023-05-20T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -37,8 +37,10 @@ categories:
   - Demo
 ---
 
-## События:
+## События / Events:
 
-* Болела.🤒️ Никаких интересных событий.
+* Написала контрольные работы по дискретной математике и линейной алгебре. Также я выполнила итоговый тест по истории.
+* I wrote tests in discrete mathematics and linear algebra. Also I passed the history final test.
+
 
 

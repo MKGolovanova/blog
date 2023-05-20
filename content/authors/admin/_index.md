@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Голованова Мария Константиновна
+title: Голованова Мария Константиновна / Golovanova Maria Konstantinovna
 
 # Full name (for SEO)
 first_name: Мария
@@ -14,25 +14,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студент РУДН
+role: Студент РУДН / RUDN student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский университет дружбы народов
+  - name: Российский университет дружбы народов / Peoples' Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: В данный момент учусь на первом курсе на направлении Математика и механика
+bio: В данный момент учусь на первом курсе на направлении Математика и механика / I am currently a first year student in Mathematics and Mechanics.
 
 # Interests to show in About widget
 interests:
-  - Программирование
-  - Математика
+  - Программирование /  Programming
+  - Математика / Mathematics
   
 # Education to show in About widget
 education:
   courses:
-    - Математика и механика, первый курс
+    - Математика и механика, первый курс / Mathematics and Mechanics, first year
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,9 +71,10 @@ email: ''
 highlight_name: true
 ---
 
-Окончила школу с отличием. В данный момент учусь на первом курсе на направлении Математика и механика в РУДН
+- Окончила школу с отличием. В данный момент учусь на первом курсе на направлении Математика и механика в РУДН. 
+- I graduated from high school with honors. At the moment I'm a 1st year student in the direction of Mathematics and Mechanics at RUDN University.
 
-Ссылки на  мои ресурсы:
+Ссылки на  мои ресурсы / Links to my resources:
 - eLibrary : https://elibrary.ru/defaultx.asp?
 - Google Scholar : https://scholar.google.com/citations?view_op=new_profile&hl=ru
 - ORCID : https://orcid.org/my-orcid?orcid=0009-0000-7596-0442

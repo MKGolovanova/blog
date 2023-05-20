@@ -16,15 +16,15 @@ sections:
     content:
       title: Skills
       items:
-        - name: Pascal
+        - name: Паскаль / Pascal
           description: 65%
           icon: r-project
           icon_pack: fab
-        - name: Математический анализ
+        - name: Математический анализ / Mathematical analysis
           description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Линейная алгебра и геометрия
+        - name: Линейная алгебра и геометрия / Linear algebra and geometry
           description: 70%
           icon: camera-retro
           icon_pack: fas
@@ -40,14 +40,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Репетитор по мaтематике
-          company: Онлайн-платформа по образованию
+        - title: Репетитор по мaтематике / Mathematics tutor
+          company: Онлайн-платформа по образованию / Online education platform
           company_url: ''
           company_logo: org-x
-          location: Россия
+          location: Россия / Russia
           date_start: '2023-02-11'
           date_end: ''
-          description: Обучаю решению задач по ОГЭ и других задач школьного уровня.
+          description: Обучаю решению задач по ОГЭ и других задач школьного уровня / I teach problem solving for the OGE and other problems at the school level.
     design:
       columns: '2'
   - block: accomplishments
@@ -69,7 +69,7 @@ sections:
           description: ''
           organization: Github
           organization_url: https://github.com/
-          title: Изучение работы с операционной системой Linux, создание собственного сайта. 
+          title: Изучение работы с операционной системой Linux, создание собственного сайта / Learning to work with the Linux operating system, creating your own website.
           url: ''
        
     design:

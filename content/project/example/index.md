@@ -1,6 +1,7 @@
 ---
-title: Персональный проект
-summary: Встроенная страница проекта. 
+title: Персональный проект / Personal project
+summary: Встроенная страница проекта / Embedded project page.
+
 tags:
   - Deep Learning
 date: '2023-05-13T00:00:00Z'
@@ -31,3 +32,5 @@ slides: example
 ---
 
 В данный момент проектов нет.
+/There are currently no projects.
+
